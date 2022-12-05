@@ -12,7 +12,7 @@
 
 💨风向：{{wind_dir.DATA}} 
 
-今天是你的第{{love_day.DATA}}天 
+今天是你在这个世界上闪闪发光的第{{love_day.DATA}}天 
 
 {{birthday1.DATA}} 
 {{birthday2.DATA}}
